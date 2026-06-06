@@ -17,7 +17,6 @@ Este proyecto corresponde a la Actividad Sumativa 1 de *Desarrollo Orientado a O
 
 ## 🧱 Estructura general del proyecto
 
-```plaintext
 ├── src
 │   ├── model
 │   │   ├── Persona.java
@@ -28,7 +27,6 @@ Este proyecto corresponde a la Actividad Sumativa 1 de *Desarrollo Orientado a O
 │       └── Main.java
 
 ---
-
 
 
 ## ⚙️ Instrucciones para clonar y ejecutar el proyecto
