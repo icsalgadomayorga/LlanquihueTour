@@ -35,7 +35,6 @@ Este proyecto corresponde a la Actividad Sumativa 1 de *Desarrollo Orientado a O
 
 1. Clona el repositorio desde GitHub:
 
-```bash
 git clone https://github.com/icsalgadomayorga/LlanquihueTour.git
 ```
 
