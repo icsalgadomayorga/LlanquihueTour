@@ -17,6 +17,7 @@ Este proyecto corresponde a la Actividad Sumativa 1 de *Desarrollo Orientado a O
 
 ## 🧱 Estructura general del proyecto
 
+```plaintext
 ├── src
 │   ├── model
 │   │   ├── Persona.java
@@ -33,6 +34,7 @@ Este proyecto corresponde a la Actividad Sumativa 1 de *Desarrollo Orientado a O
 
 1. Clona el repositorio desde GitHub:
 
+```bash
 git clone https://github.com/icsalgadomayorga/LlanquihueTour.git
 ```
 
@@ -46,12 +48,8 @@ git clone https://github.com/icsalgadomayorga/LlanquihueTour.git
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Repositorio GitHub:** \https://github.com/icsalgadomayorga/LlanquihueTour.git
 **Fecha de entrega:** \[08/06/2026]
-
----
-
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
 
 
 
